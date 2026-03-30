@@ -18,8 +18,6 @@ double media() {
     return (double)soma / N;
 }
 
-
-
 int main() {
     double m = media();
     for (int i = 0; i < N; i++) {
